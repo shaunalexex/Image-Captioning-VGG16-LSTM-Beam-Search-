@@ -14,7 +14,7 @@ Decoder : Dense Layer with Softmax Activation
 Embedding Layer Weights : pretrained GloVE word embeddings
 
 Neural Network Model : 
-![Model](Images/model.png)
+![Model](Images/model1.png)
 
 For Evaluating the model I have used both greedy search as well as beam search to find caption 
 as well as using the BLEU score metric to evaluate each search method. Beam search cost has been implemented as a sum of log
