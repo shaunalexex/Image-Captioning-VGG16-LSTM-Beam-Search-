@@ -26,7 +26,7 @@ After the training I shortlisted the model with weights from epoch 15 and 17.
 2. Beam Search Evaluation ( Beam size = 5 )
 ![15-beam](Images/14-beam-BLEU.PNG)
 
-BLEU Score for model with weights from epoch 17 : 
+# BLEU Score for model with weights from epoch 17 : 
 
 1. Greedy Search Evaluation 
 ![17-greedy](Images/16-greedy-BLEU.PNG)
