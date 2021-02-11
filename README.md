@@ -2,9 +2,13 @@
 Image Captioning using encoder decoder type model using VGG16, LSTM and beam search
 
 Framework used : Keras
+
 Dataset Used : Flickr8k Dataset
+
 Image Encoder : pretrained VGG16 model with imagenet weights
+
 Sequence Encoder : LSTM
+
 Decoder : Dense Layer with Softmax Activation
 
 Embedding Layer Weights : pretrained GloVE word embeddings
